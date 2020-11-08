@@ -1,3 +1,8 @@
+# What is it?
+
+Study project at Financial University under the Government of the Russian Federation (c) 2019
+
+
 # ES5-Practice-Budget-app
 ES5 Practice
 
